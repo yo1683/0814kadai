@@ -25,3 +25,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 "# 0814kadai" 
 "# 0718kadai1" 
 "# 20252Q-Osabe-Front" 
+"# 20252Q-Osabe-Front" 
